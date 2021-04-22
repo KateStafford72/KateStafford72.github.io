@@ -56,6 +56,10 @@ img {
   object-fit: cover;
 }
 
+a {
+  color: #FFD6BA;
+}
+
 .wrapper {
   max-width: 1150px;
   margin: auto;
